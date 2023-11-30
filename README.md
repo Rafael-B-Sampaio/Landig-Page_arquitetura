@@ -1,2 +1,2 @@
-# Landig-Page_arquitetura
+# Landing-Page_arquitetura
 Desafio de landing page 
